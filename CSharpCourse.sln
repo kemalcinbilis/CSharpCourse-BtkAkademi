@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "..\Collectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "..\Exceptions\Exceptions.csproj", "{0E963A4D-F548-4CF4-B923-C2E9D06ADCCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseActivities", "..\DatabaseActivities\DatabaseActivities.csproj", "{CDDD703B-FC38-4552-804A-A4A80B4D2C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDemo", "..\AdoNetDemo\AdoNetDemo.csproj", "{453579DF-3E4E-44D8-8C5D-709FC574B24D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{0E963A4D-F548-4CF4-B923-C2E9D06ADCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E963A4D-F548-4CF4-B923-C2E9D06ADCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E963A4D-F548-4CF4-B923-C2E9D06ADCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDD703B-FC38-4552-804A-A4A80B4D2C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDD703B-FC38-4552-804A-A4A80B4D2C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDD703B-FC38-4552-804A-A4A80B4D2C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDD703B-FC38-4552-804A-A4A80B4D2C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453579DF-3E4E-44D8-8C5D-709FC574B24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453579DF-3E4E-44D8-8C5D-709FC574B24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453579DF-3E4E-44D8-8C5D-709FC574B24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453579DF-3E4E-44D8-8C5D-709FC574B24D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
